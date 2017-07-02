@@ -1,0 +1,8 @@
+.beat-list {
+    padding: 20px;
+}
+
+.beat-list > * {
+    display: inline-block;
+    margin-right: 20px;
+}
